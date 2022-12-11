@@ -1,0 +1,5 @@
+package com.cameron.driver.education.constant;
+
+public enum STATUS {
+ ACTIVE,INACTIVE,DELETE,READ,UNREAD,COMPLETE,INCOMPLETE,PENDING,CLOSED,OPEN,PAID,DEFFERED
+}
